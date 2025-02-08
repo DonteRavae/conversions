@@ -8,3 +8,4 @@ To run a specified algorithm, enter `cargo run -p <program name>` into the conso
 
 - ### Euclidean
   - Basic Algorithm
+  - Extended Algorithm
